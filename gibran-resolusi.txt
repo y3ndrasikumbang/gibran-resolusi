@@ -2,3 +2,5 @@ GIBRAN RESOLUSI
 -KONSISTEN BELAJAR UNITY
 - BELAJAR PEMBUATAN MPI
 - membuat video
+- membuat aplikasi android
+- kolaborasi
